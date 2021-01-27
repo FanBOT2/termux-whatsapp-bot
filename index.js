@@ -19,17 +19,17 @@ const BotName = 'Lexa';
 const wa = 'https://chat.whatsapp.com/FQNUK5VFD68GZaB0UlXjst';
 const eror = 'Info fitur Error';
 const ow = 'Mrf.zvx';
-const nomorowner = '082223014661';
-const ovo = '082223014661';
-const pulsa = '082223014661';
-const dana = '082223014661';
-const instagram = 'http://www.instagram.com/mrf.zvx';
+const nomorowner = '083875445000';
+const ovo = '089519681909';
+const pulsa = '083875445000';
+const dana = '0895414834921';
+const instagram = 'http://www.instagram.com/irfannnstore';
 const aktif = '08:00 - 22:00';
 const vcard = 'BEGIN:VCARD\n'
   + 'VERSION:3.0\n'
-  + 'FN:Mrf.zvx\n' // Nama kamu
-  + 'ORG:Lexa;\n' // Nama bot
-  + 'TEL;type=CELL;type=VOICE;waid=6282223014661:+62 822-2301-4661\n' //Nomor whatsapp kamu
+  + 'FN:Mrf.zvx\n' // IRFAN SATRIAWAN
+  + 'ORG:Lexa;\n' // Zvx BOT
+  + 'TEL;type=CELL;type=VOICE;waid=6282223014661:+62 822-2301-4661\n' //+62 838-7544-5000
   + 'END:VCARD'
 //
 const
